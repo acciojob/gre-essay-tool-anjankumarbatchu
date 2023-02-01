@@ -1,2 +1,14 @@
-
+.container{
+	background:cyan;
+	border:5px solid red;
+	padding:20px;
+}
+.heading{
+	color:navy;
+}
+#evaluatedText{
+	border: 5px groove navy;
+	color:navy;
+	font-weight:600;
+	resize:none;
 /* Your CSS Code here. */
